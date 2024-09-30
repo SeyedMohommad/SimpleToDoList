@@ -26,7 +26,7 @@ This is a simple To-Do List web application built using Java Spring Boot. It all
 
 ## Getting Started
 
-## Prerequisites
+**Prerequisites**
 
 - Java 11 or higher installed.
 - Maven installed (if using Maven for dependency management).
