@@ -45,16 +45,16 @@ cd todo-list-app
    ```
 2. Run the application using the Spring Boot Maven plugin:
 
-```bash
-mvn spring-boot:run
-```
+  ```bash
+  mvn spring-boot:run
+  ```
 
 3. The application will start on http://localhost:8080.
 ---
 
 ## API Endpoints
 
-## Base URL
+**Base URL**
 
 ```bash
 http://localhost:8080
@@ -62,7 +62,7 @@ http://localhost:8080
 
 ## Task Endpoints:
 
-### Get All Tasks
+***Get All Tasks***
 - Endpoint: `GET /tasks`
 - Description: Retrieve all tasks.
 - Example Response:
